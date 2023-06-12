@@ -1,0 +1,17 @@
+.bg-custom {
+    background-color: #0b2e62;  /* adjust the color to your preference */
+}
+
+.btn-custom {
+    background-color: #0b2e62;  /* adjust the color to your preference */
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #0b2e62;  /* adjust the color to your preference */
+    color: white;
+}
+
+.text-custom {
+    color: #0a192f;  /* adjust the color to your preference */
+}
